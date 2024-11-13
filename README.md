@@ -7,6 +7,7 @@ Você deverá desenvolver um simples [CRUD](https://developer.mozilla.org/pt-BR/
 Você poderá desenvolver a aplicação completa (frontend + backend) ou parte dela (somente frontend [com mocks](https://dev.to/devneto/produtividade-com-a-utilizacao-de-mocks-3enc "https://dev.to/devneto/produtividade-com-a-utilizacao-de-mocks-3enc") ou somente backend).
   
 **Tecnologias permitidas**
+
 👉 para backend:
 
 -   Java Spring boot
@@ -34,9 +35,6 @@ Nós esperamos que você disponibilize uma aplicação REST com os seguintes end
 -   [GET]  /pessoas - retorna uma lista de pessoas cadastradas
     
 
-  
-  
-
 ▶️ Frontend  
 Nós esperamos que você disponibilize uma aplicação frontend que atenda os seguintes requisitos:
 -   Como um usuário, eu desejo ver uma lista de pessoas cadastradas    
@@ -45,6 +43,7 @@ Nós esperamos que você disponibilize uma aplicação frontend que atenda os se
 -   Como um usuário, eu desejo ter a possibilidade de adicionar uma ou mais pessoas à lista    
 
 O design é livre e você pode usar toda sua criatividade para prover a melhor experiência para o usuário final.
+
 
 
 ## 👾 Escolha: Front-End com Mocks
